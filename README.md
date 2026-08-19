@@ -4,4 +4,8 @@ def name():
 def gradeandsection():
     print("Grade: Nine")
     print("Section: Platinum")
-def 
+
+def ageanddateofbirth():
+    print("Age: Fourteen")
+    print("Date of Birth: October 17, 2011")
+
