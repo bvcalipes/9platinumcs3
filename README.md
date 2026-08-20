@@ -1,5 +1,4 @@
 # Student Information
-
 **Name:** Bashaier V. Calipes
 **Grade:** Nine
 **Section:** Platinum
