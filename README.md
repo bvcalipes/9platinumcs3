@@ -1,21 +1,13 @@
-def name():
-    print("Name: Bashaier V. Calipes")
+# Student Information
 
-def gradeandsection():
-    print("Grade: Nine")
-    print("Section: Platinum")
+**Name:** Bashaier V. Calipes
+**Grade:** Nine
+**Section:** Platinum
+**Age:** Fourteen
+**Date of Birth:** October 17, 2011
+**Former Sections:** Diamond & Sampaguita
 
-def ageanddateofbirth():
-    print("Age: Fourteen")
-    print("Date of Birth: October 17, 2011")
-
-def main():
-    name()
-    gradeandsection()
-    ageanddateofbirth()
-
-if __name__ == "__main__":
-    main()
+---
 
 # CS3 Portfolio
 
