@@ -16,3 +16,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# CS3 Portfolio
+
+## Quarter 1
+* [Computational Thinking Skills Exercise](./q1/ctskillsPlatinumCALIPES.md)
