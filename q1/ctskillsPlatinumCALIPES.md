@@ -16,7 +16,7 @@
 ## Step 3: Define Computational Thinking Approaches
 
 | Sub-Problem | CT Skill | Example Solution |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | **1. Decision Delay** | **Abstraction** | Display digital menu boards in the waiting line showing only essential details (Item Name, Price, Stock Status) so students choose before reaching the counter. |
 | **2. Manual Checkout** | **Algorithm Design** | Implement an automated POS (Point of Sale) cashier program that calculates order totals, applies discounts, and computes change instantly. |
 | **3. Inventory Tracking** | **Pattern Recognition & Automation** | Create an automated inventory tracker that deducts item quantities per sale and alerts staff when stock falls below a set threshold. |
@@ -27,7 +27,7 @@
 
 ```text
 START
-  Set TotalCost = 0
+  Set TotalCost = 0 
   
   LOOP until ordering is complete:
     INPUT FoodItem, Quantity
