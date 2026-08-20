@@ -2,6 +2,7 @@
 **Name:** Bashaier V. Calipes
 **Section:** Platinum
 
+
 ## Sari-Sari Store Inventory
 ### 1. Encapsulation
 Encapsulation bundles the product details—such as `product_name`, `price`, and `stock`—along with the functions that operate on them inside a single `Product` class. Private attributes prevent direct, unauthorized modifications from external parts of the program. Instead, controlled updates occur through explicit methods like `restock(amount)` or `sell(quantity)`, ensuring that stock levels never accidentally drop below zero.
@@ -29,3 +30,16 @@ class StoreInventory:
             print("Sale completed successfully.")
         else:
             print("Error: Out of stock.")
+```
+
+### 3. Inheritance
+Inheritance is an object-oriented-programming mechanism that lets a new class adopt the properties and methods of an existing class. It helps programmers reuse code, build class hierarchies, and add or change features without rewriting old logic.
+
+```python
+class PerishableProduct(Product):
+    def __init__(self, name, price, stock, expiration_date):
+        super().__init__(name, price, stock)
+        self.expiration_date = expiration_date
+```
+
+### 4. Polymorphism
