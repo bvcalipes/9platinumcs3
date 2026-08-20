@@ -49,6 +49,3 @@ START
     DISPLAY "Insufficient Payment. Please provide additional cash."
   END IF
 END
-
-### Step 5: Reflection
-Decomposition allows us to break down an overwhelming real-world issue—like canteen crowding—into smaller, manageable parts that can be individually automated or optimized. By applying Computational Thinking (CT) skills like Abstraction, Algorithm Design, and Pattern Recognition, we can turn manual operational bottlenecks into structured digital solutions, significantly reducing wait times and improving overall efficiency.
