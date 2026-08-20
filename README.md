@@ -17,3 +17,4 @@
 
 ## Quarter 1
 * [Computational Thinking Skills Exercise](./q1/ctskillsPlatinumCALIPES.md)
+* [Chinese Zodiac Signs Exercise](./q1/zodiacPlatinumCALIPES.md)
