@@ -1,9 +1,14 @@
 # Student Information
 **Name:** Bashaier V. Calipes
+
 **Grade:** Nine
+
 **Section:** Platinum
+
 **Age:** Fourteen
+
 **Date of Birth:** October 17, 2011
+
 **Former Sections:** Diamond & Sampaguita
 
 ---
