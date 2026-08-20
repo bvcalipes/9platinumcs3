@@ -12,6 +12,11 @@ Create a Python program that determines the Chinese Zodiac sign based on a given
 * Zodiac recurs every 12 years starting from 1900 (Rat).
 
 ---
+### Screenshots
+![alt text](image.png)
+![alt text](image-1.png)
+
+---
 
 ### Python Code (`zodiacPlatinumCALIPES.py`)
 ```python
@@ -30,3 +35,4 @@ if birth_year < BASELINE_YEAR:
 else:
     zodiac_index = (birth_year - BASELINE_YEAR) % 12
     print(f"Your Chinese Zodiac Sign is: {zodiac_signs[zodiac_index]}")
+
