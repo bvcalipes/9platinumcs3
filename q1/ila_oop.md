@@ -1,6 +1,8 @@
 # ILA 3-1: Applying the Four Pillars of OOP
 **Name:** Bashaier V. Calipes
+
 **Section:** Platinum
+
 **Date:** August 20, 2026
 
 ## Sari-Sari Store Inventory

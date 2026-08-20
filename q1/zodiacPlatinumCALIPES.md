@@ -1,6 +1,8 @@
 # Chinese Zodiac Sign Finder
 **Name:** Bashaier V. Calipes  
-**Section:** Platinum    
+
+**Section:** Platinum  
+
 **Date:** Aug 20, 2026  
 
 ---

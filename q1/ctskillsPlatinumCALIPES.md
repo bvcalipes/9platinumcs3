@@ -1,7 +1,10 @@
 # Annex A: Computational Thinking Exercise
 **Scenario:** Smart School Canteen Queue  
-**Section:** Platinum  
+
+**Section:** Platinum
+
 **Name:** Bashaier V. Calipes  
+
 **Date:** Aug 17, 2026
 
 ---
